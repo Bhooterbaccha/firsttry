@@ -1,3 +1,6 @@
+install nltk using:
+pip install nltk
+
 Instructions to run concat.py
 python concat.py arg1 arg2 arg3 arg4
 arg1 -> folder containing the text messages
